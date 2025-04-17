@@ -1,4 +1,4 @@
-# Segmentation using Augmented Partial Factorization
+# Efficient Full-Characterization of Centimeter-Scale Metasurfaces by Accurate Segmentation using Augmented Partial Factorization
 We enable full characterization of extremely large-area metasurfaces, up to 1 cm in width and with thousands of input channels, in under 20 minutes, using less than 97 GiB of memory and achieving an error below 1%.
 
 Augmented Partial Factorization (APF) is an efficient method for fully characterizing the scattering matrix of linear, complex media with multiple input channels, such as metasurfaces. The method was published in APF has been published in [ Nature Computational Science (2022)](https://www-nature-com.libproxy2.usc.edu/articles/s43588-022-00370-6). Although APF significantly improves computational speed and memory efficiency for multi-input cases, it still scales with the structure size, making the characterization of optimal metasurfaces larger than 4 mm highly challenging. 
