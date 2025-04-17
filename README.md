@@ -14,4 +14,5 @@ To run the codes, one needs to:
 
 # Example
 An example of the results and the corresponding error for a metalens is shown below. Streh ratio (SR) and transmission efficiency (T) are used for evaluation of the metalens on the focal plane.
+
 <img src="figs/GitHub_Figure.png" alt="Figure description" width="60%"/>
