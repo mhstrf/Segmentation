@@ -11,4 +11,7 @@ To run the codes, one needs to:
 - Install [MESTI.m](https://github.com/complexphoton/MESTI.m/tree/main)
 - Install the serial version of [MUMPS](https://mumps-solver.org/index.php?page=home) and its MATLAB interface
 - Download and add the MESTI.m/src folder to the search path using the addpath command in MATLAB
-- 
+
+# Example
+An example of the results and the corresponding error is shown below:
+
