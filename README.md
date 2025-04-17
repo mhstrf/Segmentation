@@ -13,5 +13,5 @@ To run the codes, one needs to:
 - Download and add the MESTI.m/src folder to the search path using the addpath command in MATLAB
 
 # Example
-An example of the results and the corresponding error is shown below:
+An example of the results and the corresponding error for a metalens is shown below. Streh ratio (SR) and transmission efficiency (T) are used for evaluation of the metalens on the focal plane.
 <img src="figs/GitHub_Figure.png" alt="Figure description" width="60%"/>
