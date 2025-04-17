@@ -6,4 +6,9 @@ Augmented Partial Factorization (APF) is an efficient method for fully character
 In this work, we overcome this challenge by significantly reducing computational costs—particularly memory usage, which is the main bottleneck in characterizing large-area metasurfaces. Our approach breaks down the computations into smaller segments, characterizes each segment independently, and then carefully stitches the results together. Using this method, we achieve characterization with less than 1% error while reducing memory usage by several hundred times.
 
 
-
+# How to run
+To run the codes, one needs to:
+- Install [MESTI.m](https://github.com/complexphoton/MESTI.m/tree/main)
+- Install the serial version of [MUMPS](https://mumps-solver.org/index.php?page=home) and its MATLAB interface
+- Download and add the MESTI.m/src folder to the search path using the addpath command in MATLAB
+- 
