@@ -14,4 +14,4 @@ To run the codes, one needs to:
 
 # Example
 An example of the results and the corresponding error is shown below:
-![example](figs/GitHub_Figure.png)
+<img src="figs/GitHub_Figure.png" alt="Figure description" width="60%"/>
